@@ -1,2 +1,2 @@
 # 2021Projects
-Some examples, my beta testing
+Some examples, manual and automation testing
